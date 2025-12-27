@@ -226,15 +226,6 @@ services:
 - CPF e Email possuem constraint de **unicidade** no banco de dados
 - A ordenação padrão é por data de criação (`createdAt`)
 
-## 🤝 Contribuindo
-
-Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou pull requests.
-
-1. Fork o projeto
-2. Crie uma branch para sua feature (`git checkout -b feature/AmazingFeature`)
-3. Commit suas mudanças (`git commit -m 'Add some AmazingFeature'`)
-4. Push para a branch (`git push origin feature/AmazingFeature`)
-5. Abra um Pull Request
 
 ## 👨‍💻 Autor
 
@@ -247,3 +238,4 @@ Este projeto está sob a licença MIT.  Veja o arquivo LICENSE para mais detalhe
 ---
 
 ⭐ Se este projeto foi útil para você, considere dar uma estrela! 
+
